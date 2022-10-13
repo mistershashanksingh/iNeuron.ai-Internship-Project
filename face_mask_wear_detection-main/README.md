@@ -47,11 +47,11 @@ sample
 <p align="center">Upload Images</p>
 
 <p align="center">
-  <img src="face_mask_detector/screen_shots/Screenshot from 2022-06-23 15-02-15.png">
+  <img src="face_mask_wear_detection-main/screen_shots/Screenshot from 2022-06-23 15-02-15.png">
 </p>
 
 <p align="center">
-  <img src="face_mask_detector/screen_shots/real time face mask gif.gif">
+  <img src="face_mask_wear_detection-main/screen_shots/real time face mask gif.gif">
 </p>
 
 
