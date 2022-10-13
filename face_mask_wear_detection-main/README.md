@@ -42,7 +42,7 @@ $ streamlit run face_detec.py
 ```
 sample
 <p align="center">
-  <img src="face_mask_detector/screen_shots/Screenshot from 2022-06-23 15-02-00.png">
+  <img src="screen_shots/Screenshot from 2022-06-23 15-02-00.png">
 </p>
 <p align="center">Upload Images</p>
 
